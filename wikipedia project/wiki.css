@@ -1,0 +1,147 @@
+/* ===== GLOBAL ===== */
+body {
+  margin: 0;
+  font-family: Georgia, 'Times New Roman', serif;
+  background-color: #f8f9fa;
+  color: #202122;
+}
+
+/* ===== HEADER ===== */
+.top-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: white;
+  padding: 10px 20px;
+  border-bottom: 1px solid #a2a9b1;
+}
+
+.logo {
+  font-size: 22px;
+  margin-left: 10px;
+}
+
+.left-header {
+  display: flex;
+  align-items: center;
+}
+
+.menu {
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.search-bar input {
+  padding: 6px;
+  width: 250px;
+}
+
+.search-bar button {
+  padding: 6px 10px;
+}
+
+.right-header a {
+  margin-left: 15px;
+  text-decoration: none;
+  color: #0645ad;
+  font-size: 14px;
+}
+
+.right-header a:hover {
+  text-decoration: underline;
+}
+
+/* ===== LAYOUT ===== */
+.page-layout {
+  display: flex;
+  max-width: 1400px;
+  margin: 20px auto;
+}
+
+/* ===== LEFT SIDEBAR ===== */
+.left-sidebar {
+  width: 220px;
+  padding: 15px;
+  font-size: 14px;
+}
+
+.left-sidebar h3 {
+  border-bottom: 1px solid #a2a9b1;
+  padding-bottom: 5px;
+}
+
+.left-sidebar ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.left-sidebar li {
+  margin: 8px 0;
+}
+
+.left-sidebar a {
+  text-decoration: none;
+  color: #0645ad;
+}
+
+.left-sidebar a:hover {
+  text-decoration: underline;
+}
+
+/* ===== MAIN CONTENT ===== */
+.main-content {
+  flex: 1;
+  background: white;
+  padding: 25px;
+  border: 1px solid #a2a9b1;
+}
+
+.main-content h1 {
+  font-size: 32px;
+  border-bottom: 1px solid #a2a9b1;
+  padding-bottom: 5px;
+}
+
+.main-content h2 {
+  margin-top: 30px;
+  border-bottom: 1px solid #a2a9b1;
+  padding-bottom: 4px;
+  font-size: 22px;
+}
+
+.subheading {
+  font-size: 14px;
+  color: #54595d;
+  margin-bottom: 20px;
+}
+
+.main-content p,
+.main-content li {
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+.main-content a {
+  color: #0645ad;
+  text-decoration: none;
+}
+
+.main-content a:hover {
+  text-decoration: underline;
+}
+
+/* ===== RIGHT SIDEBAR ===== */
+.right-sidebar {
+  width: 250px;
+  padding: 15px;
+  font-size: 14px;
+}
+
+.right-sidebar h3 {
+  border-bottom: 1px solid #a2a9b1;
+  padding-bottom: 5px;
+}
+
+.option {
+  margin-top: 15px;
+}

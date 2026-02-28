@@ -1,0 +1,1 @@
+function addProduct(){ alert(" Your product is added ") }
