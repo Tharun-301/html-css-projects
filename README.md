@@ -5,7 +5,15 @@ This repository contains multiple responsive web projects built using **pure HTM
 
 ---
 
-## 📖 About This Repository
+# 🌍 Live Demo
+
+🚀 **View Portfolio Websites of HTML CSS**
+
+👉 https://tharun-301.github.io/html-css-projects/
+
+---
+
+# 📖 About This Repository
 
 This collection showcases:
 
@@ -21,10 +29,7 @@ Each project is structured properly with separate folders for assets, styles, an
 
 # 📌 Projects Included
 
----
-
 ## 🍽️ 1. Restaurant Website
-
 A modern and responsive restaurant website design.
 
 ### 🔹 Features
@@ -35,13 +40,12 @@ A modern and responsive restaurant website design.
 - Clean UI styling
 
 ### 📂 How to Run
-1. Open the `Restaurant project` folder
-2. Open `mmsfoods.html` in your browser
+Open the **Restaurant project** folder  
+Open `mmsfoods.html` in your browser
 
 ---
 
 ## 🎬 2. YouTube Clone
-
 A homepage layout clone inspired by YouTube.
 
 ### 🔹 Features
@@ -51,13 +55,12 @@ A homepage layout clone inspired by YouTube.
 - Responsive structure
 
 ### 📂 How to Run
-1. Open the `Youtube project` folder
-2. Open `youtube.html` in your browser
+Open the **Youtube project** folder  
+Open `youtube.html` in your browser
 
 ---
 
 ## 📚 3. Wikipedia Clone
-
 Structured informational page inspired by Wikipedia layout.
 
 ### 🔹 Features
@@ -67,13 +70,12 @@ Structured informational page inspired by Wikipedia layout.
 - Clean readability
 
 ### 📂 How to Run
-1. Open the `wikipedia project` folder
-2. Open `movies-wiki.html` in your browser
+Open the **wikipedia project** folder  
+Open `movies-wiki.html` in your browser
 
 ---
 
 ## 🛍️ 4. Product Landing Page
-
 A product showcase landing page design.
 
 ### 🔹 Features
@@ -83,41 +85,18 @@ A product showcase landing page design.
 - Structured layout
 
 ### 📂 How to Run
-1. Open the `products project` folder
-2. Open `index.html` in your browser
+Open the **products project** folder  
+Open `index.html` in your browser
 
 ---
 
 # 🚀 Technologies Used
 
-- 🧱 HTML5
-- 🎨 CSS3
-- 📐 Flexbox
-- 🗂️ CSS Grid
-- 📱 Responsive Design Principles
-
----
-
-# 🛠️ Folder Structure
-HTML-CSS-Projects/
-│
-├── Restaurant project/
-├── Youtube project/
-├── wikipedia project/
-├── Movies Wikipedia project/
-├── products project/
-
-
-
----
-
-# 🌍 Live Demo
-
-You can view the live projects here:
-
-🔗 (Enable GitHub Pages and add your live link here)
-
----
+🧱 HTML5  
+🎨 CSS3  
+📐 Flexbox  
+🗂️ CSS Grid  
+📱 Responsive Design Principles  
 
 # 🎯 Learning Objectives
 
